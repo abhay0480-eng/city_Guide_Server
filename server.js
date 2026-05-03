@@ -1,7 +1,7 @@
 import http from "node:http"
 import { handleGet } from "./handler/routeHandlers.js"
 
-const PORT = 8000
+const PORT = process.env.PORT || 8000
 
 const server = http.createServer(async (req, res) => {
 
@@ -11,4 +11,4 @@ const server = http.createServer(async (req, res) => {
 
 })
 
-server.listen(PORT, () => console.log(`Server is running on port ${PORT}`))
+server.listen(PORT, "0.0.0.0", () => console.log(`Server is running on port ${PORT}`))
