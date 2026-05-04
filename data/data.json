@@ -4,94 +4,228 @@
     "location": "India",
     "buddies": [
         {
-            "id": "LB-DEL-2024-001",
-            "name": "Rajesh Kumar Sharma",
-            "age": 32,
-            "gender": "male",
-            "city": "Delhi",
-            "state": "Delhi",
-            "years_lived": 32,
+            "id": "LB-VAR-2024-002",
+            "name": "Ananya Mishra",
+            "age": 35,
+            "gender": "female",
+            "city": "Varanasi",
+            "state": "Uttar Pradesh",
+            "years_lived": 35,
             "languages": [
                 "Hindi",
                 "English",
-                "Punjabi"
+                "Bhojpuri"
             ],
             "contact": {
-                "phone": "+91-9876543210",
-                "email": "rajesh.localbuddy@gmail.com",
-                "instagram": "@delhiwithrajesh"
+                "phone": "+91-9876543211",
+                "email": "ananya.kashi@gmail.com",
+                "instagram": "@varanasi.diaries"
             },
             "verification": {
                 "police_verification": true,
-                "verification_id": "PV-DEL-2024-45612",
-                "verified_date": "2024-03-15",
+                "verification_id": "PV-VAR-2024-88765",
+                "verified_date": "2024-01-10",
                 "government_id_verified": true
             },
             "address": {
-                "area": "Karol Bagh",
-                "pincode": "110005",
-                "landmark": "Near Ajmal Khan Road Metro"
+                "area": "Assi Ghat",
+                "pincode": "221005",
+                "landmark": "Near Banaras Hindu University"
             },
-            "profile_pic": "https://placeholder-cdn.com/rajesh-profile.jpg",
-            "profession": "History Teacher & Tour Guide",
-            "bio": "Born and raised in Old Delhi. I know every gali, every hidden gem, and the best parathas you'll ever taste. Let me show you the Delhi that guidebooks miss.",
-            "rating": 4.8,
-            "total_tours": 247,
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880822/ChatGPT_Image_May_3_2026_02_57_41_PM_qbndgt.png",
+            "profession": "Heritage Scholar & Spiritual Guide",
+            "bio": "Born on the banks of the Ganges. I specialize in the spiritual history, hidden alleys, and ancient textile traditions of Kashi. Experience the city beyond the crowded tourist spots.",
+            "rating": 4.9,
+            "total_tours": 312,
             "skills": [
-                "Photography",
-                "Storytelling",
-                "Historical Knowledge",
-                "Food Expert",
-                "Multilingual Communication"
+                "Cultural History",
+                "Spiritual Guidance",
+                "Textile Expertise",
+                "Photography"
             ],
             "specializations": [
-                "Heritage Walks",
-                "Street Food Tours",
-                "Photography Spots"
+                "Ghat Walks",
+                "Temple Architecture",
+                "Silk Weaving Tours"
             ],
             "services": [
                 {
-                    "category": "best_places_to_eat",
-                    "description": "3-hour street food crawl covering Chandni Chowk, Paranthe Wali Gali, and hidden local joints",
-                    "duration_hours": 3,
-                    "price_per_hour": 450,
-                    "fixed_price": 1200,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Food recommendations",
-                        "Hygiene-safe spots",
-                        "Vegetarian options",
-                        "Photography assistance"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Offbeat Delhi tour: Hauz Khas Village, Lodhi Art District, hidden Mughal ruins",
-                    "duration_hours": 5,
+                    "category": "heritage_walk",
+                    "description": "Early morning boat ride and walk through the oldest living alleys of the world",
+                    "duration_hours": 4,
                     "price_per_hour": 500,
-                    "fixed_price": 2200,
+                    "fixed_price": 1800,
                     "max_group_size": 4,
                     "includes": [
-                        "Transport assistance",
-                        "Timing optimization",
-                        "Photography",
-                        "Historical context"
+                        "Boat ride arrangement",
+                        "Historical context",
+                        "Local breakfast",
+                        "Photography"
                     ]
-                },
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "evening"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 48
+            },
+            "reviews_snapshot": [
                 {
-                    "category": "full_city_tour",
-                    "description": "Complete Delhi experience: Heritage + Modern + Food + Markets (8 hours)",
-                    "duration_hours": 8,
-                    "price_per_hour": 550,
-                    "fixed_price": 4000,
-                    "max_group_size": 4,
+                    "tourist_name": "Sarah from UK",
+                    "rating": 5,
+                    "comment": "Ananya's knowledge of Varanasi's history is unmatched. A deeply moving experience."
+                }
+            ]
+        },
+        {
+            "id": "LB-JAI-2024-003",
+            "name": "Meera Rajput",
+            "age": 28,
+            "gender": "female",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "years_lived": 28,
+            "languages": [
+                "Hindi",
+                "English",
+                "Marwari"
+            ],
+            "contact": {
+                "phone": "+91-9876543212",
+                "email": "meera.pinkcity@gmail.com",
+                "instagram": "@jaipur_woven"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-JAI-2024-11234",
+                "verified_date": "2024-02-20",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Malviya Nagar",
+                "pincode": "302017",
+                "landmark": "Near World Trade Park"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880830/ChatGPT_Image_May_3_2026_03_02_39_PM_ggllkv.png",
+            "profession": "Textile Designer & Culture Guide",
+            "bio": "A local artisan passionate about Jaipur's vibrant crafts. Let me take you through the hidden bazaars, block-printing workshops, and architectural marvels of the Pink City.",
+            "rating": 4.8,
+            "total_tours": 156,
+            "skills": [
+                "Bargaining Assistance",
+                "Artisan Connections",
+                "Historical Knowledge",
+                "Local Transport Navigation"
+            ],
+            "specializations": [
+                "Bazaar Walks",
+                "Craft Workshops",
+                "Street Food"
+            ],
+            "services": [
+                {
+                    "category": "shopping_and_culture",
+                    "description": "Guided tour of Johari and Bapu Bazaar with a focus on authentic textiles and jewelry",
+                    "duration_hours": 3,
+                    "price_per_hour": 400,
+                    "fixed_price": 1000,
+                    "max_group_size": 3,
                     "includes": [
-                        "All-day guidance",
-                        "Route planning",
-                        "Food stops",
-                        "Photo spots",
-                        "Transport tips",
-                        "Insider access"
+                        "Shopping guidance",
+                        "Workshop visits",
+                        "Snack breaks"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "afternoon",
+                    "evening"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 24
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Elena from Spain",
+                    "rating": 5,
+                    "comment": "Meera helped me find the most beautiful authentic fabrics and kept me away from tourist traps!"
+                }
+            ]
+        },
+        {
+            "id": "LB-UDA-2024-004",
+            "name": "Kavita Singh",
+            "age": 31,
+            "gender": "female",
+            "city": "Udaipur",
+            "state": "Rajasthan",
+            "years_lived": 15,
+            "languages": [
+                "Hindi",
+                "English"
+            ],
+            "contact": {
+                "phone": "+91-9876543213",
+                "email": "kavita.lakes@gmail.com",
+                "instagram": "@udaipur_tales"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-UDA-2024-55432",
+                "verified_date": "2024-04-05",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Chandpole",
+                "pincode": "313001",
+                "landmark": "Near Gangaur Ghat"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880823/ChatGPT_Image_May_3_2026_03_14_00_PM_viyjqt.png",
+            "profession": "Architectural Historian",
+            "bio": "Fascinated by Mewar history and architecture. I offer curated walks through the City Palace complex and hidden havelis surrounding Lake Pichola.",
+            "rating": 4.7,
+            "total_tours": 189,
+            "skills": [
+                "Architectural Insights",
+                "Storytelling",
+                "Photography Spots",
+                "Restaurant Recommendations"
+            ],
+            "specializations": [
+                "Royal Heritage",
+                "Sunset Viewpoints",
+                "Art Gallery Tours"
+            ],
+            "services": [
+                {
+                    "category": "heritage_and_art",
+                    "description": "Deep dive into miniature paintings, local architecture, and royal history",
+                    "duration_hours": 4,
+                    "price_per_hour": 600,
+                    "fixed_price": 2200,
+                    "max_group_size": 5,
+                    "includes": [
+                        "Museum navigation",
+                        "Artisan studio visits",
+                        "Historical context"
                     ]
                 }
             ],
@@ -100,7 +234,339 @@
                     "Monday",
                     "Tuesday",
                     "Wednesday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "morning"
+                ],
+                "advance_booking_required": false,
+                "min_notice_hours": 12
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Mark from Canada",
+                    "rating": 4,
+                    "comment": "Great insights into the palace architecture that we would have completely missed otherwise."
+                }
+            ]
+        },
+        {
+            "id": "LB-GOA-2024-005",
+            "name": "Riya D'Souza",
+            "age": 26,
+            "gender": "female",
+            "city": "Goa",
+            "state": "Goa",
+            "years_lived": 26,
+            "languages": [
+                "English",
+                "Konkani",
+                "Hindi"
+            ],
+            "contact": {
+                "phone": "+91-9876543214",
+                "email": "riya.trails@gmail.com",
+                "instagram": "@goa.offgrid"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-GOA-2024-99876",
+                "verified_date": "2024-01-22",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Vagator",
+                "pincode": "403509",
+                "landmark": "Near Chapora Fort"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880824/ChatGPT_Image_May_3_2026_03_29_00_PM_caxnci.png",
+            "profession": "Nature Guide & Trekker",
+            "bio": "I explore the Goa beyond the parties. Join me for hidden cliff jumps, secret beaches, and authentic Goan fish thalis in local villages.",
+            "rating": 4.9,
+            "total_tours": 210,
+            "skills": [
+                "Trekking",
+                "Local Cuisine Expert",
+                "Wildlife Spotting",
+                "Scooter Navigation"
+            ],
+            "specializations": [
+                "Hidden Beaches",
+                "Spice Plantations",
+                "Coastal Treks"
+            ],
+            "services": [
+                {
+                    "category": "adventure_trail",
+                    "description": "Half-day trek to secret coves and coastal viewpoints in North Goa",
+                    "duration_hours": 5,
+                    "price_per_hour": 300,
+                    "fixed_price": 1300,
+                    "max_group_size": 4,
+                    "includes": [
+                        "Trail guidance",
+                        "First aid",
+                        "Local lunch recommendation",
+                        "Sunset spots"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
                     "Friday",
+                    "Saturday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "afternoon"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 24
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Sophie from France",
+                    "rating": 5,
+                    "comment": "Riya took us to a beach where we were the only ones there. Truly magical!"
+                }
+            ]
+        },
+        {
+            "id": "LB-MUM-2024-006",
+            "name": "Simran Kaur",
+            "age": 25,
+            "gender": "female",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "years_lived": 8,
+            "languages": [
+                "Hindi",
+                "English",
+                "Marathi",
+                "Punjabi"
+            ],
+            "contact": {
+                "phone": "+91-9876543215",
+                "email": "simran.eats@gmail.com",
+                "instagram": "@mumbai_bites"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-MUM-2024-22345",
+                "verified_date": "2024-03-30",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Bandra West",
+                "pincode": "400050",
+                "landmark": "Near Carter Road"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880827/ChatGPT_Image_May_3_2026_03_30_54_PM_liiaxk.png",
+            "profession": "Food Blogger & Street Photographer",
+            "bio": "I know where to find the crispiest pani puri and the best vada pav in town. Let's eat our way through the bustling streets of Mumbai while capturing great photos.",
+            "rating": 4.9,
+            "total_tours": 275,
+            "skills": [
+                "Food Tasting",
+                "Street Photography",
+                "Crowd Navigation",
+                "Local Transport Expert"
+            ],
+            "specializations": [
+                "Street Food Tours",
+                "Market Photography",
+                "Café Hopping"
+            ],
+            "services": [
+                {
+                    "category": "best_places_to_eat",
+                    "description": "Evening street food crawl covering Mohammed Ali Road or Juhu Chowpatty",
+                    "duration_hours": 3,
+                    "price_per_hour": 450,
+                    "fixed_price": 1200,
+                    "max_group_size": 6,
+                    "includes": [
+                        "Curated food stops",
+                        "Hygiene checked vendors",
+                        "Photography",
+                        "History of dishes"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "evening"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 12
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "David from USA",
+                    "rating": 5,
+                    "comment": "The food tour with Simran was the highlight of our trip. Safe, delicious, and so much fun!"
+                }
+            ]
+        },
+        {
+            "id": "LB-KER-2024-007",
+            "name": "Lakshmi Menon",
+            "age": 27,
+            "gender": "female",
+            "city": "Varkala",
+            "state": "Kerala",
+            "years_lived": 27,
+            "languages": [
+                "Malayalam",
+                "English",
+                "Tamil"
+            ],
+            "contact": {
+                "phone": "+91-9876543216",
+                "email": "lakshmi.waves@gmail.com",
+                "instagram": "@varkala_vibes"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-KER-2024-77654",
+                "verified_date": "2024-02-14",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "North Cliff",
+                "pincode": "695141",
+                "landmark": "Near Helipad"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880827/ChatGPT_Image_May_3_2026_03_39_41_PM_zepvna.png",
+            "profession": "Surfer & Local Explorer",
+            "bio": "Catching waves and chasing sunsets. I'll show you the best surf spots, quietest beaches, and the most authentic Kerala cafes along the Malabar coast.",
+            "rating": 4.8,
+            "total_tours": 142,
+            "skills": [
+                "Surfing Basics",
+                "Beach Navigation",
+                "Local Culture",
+                "Two-wheeler Riding"
+            ],
+            "specializations": [
+                "Coastal Exploration",
+                "Cafe Culture",
+                "Backwater Views"
+            ],
+            "services": [
+                {
+                    "category": "coastal_tour",
+                    "description": "Scooter tour along the coast, exploring hidden beaches and ending with a sunset viewpoint",
+                    "duration_hours": 4,
+                    "price_per_hour": 350,
+                    "fixed_price": 1200,
+                    "max_group_size": 2,
+                    "includes": [
+                        "Pillion ride options",
+                        "Beach hopping",
+                        "Coconut water stops",
+                        "Photo assistance"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "afternoon"
+                ],
+                "advance_booking_required": false,
+                "min_notice_hours": 6
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Julia from Germany",
+                    "rating": 5,
+                    "comment": "Lakshmi is the coolest guide! She knows all the hidden cafes and beautiful empty beaches."
+                }
+            ]
+        },
+        {
+            "id": "LB-VAR-2024-008",
+            "name": "Aryan Sharma",
+            "age": 24,
+            "gender": "male",
+            "city": "Varanasi",
+            "state": "Uttar Pradesh",
+            "years_lived": 24,
+            "languages": [
+                "Hindi",
+                "English"
+            ],
+            "contact": {
+                "phone": "+91-9876543217",
+                "email": "aryan.clicks@gmail.com",
+                "instagram": "@aryan_kashi_lens"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-VAR-2024-11223",
+                "verified_date": "2024-04-10",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Dashashwamedh Ghat",
+                "pincode": "221001",
+                "landmark": "Near Godowlia Crossing"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880822/ChatGPT_Image_May_3_2026_03_01_09_PM_dipi4s.png",
+            "profession": "Portrait Photographer & Guide",
+            "bio": "I see the world through my lens. Let me help you capture the true essence of Kashi—from the vibrant Sadhus to the peaceful morning Aarti—while showing you the best local tea stalls.",
+            "rating": 4.9,
+            "total_tours": 180,
+            "skills": [
+                "Professional Photography",
+                "Photo Editing",
+                "Local Navigation",
+                "Storytelling"
+            ],
+            "specializations": [
+                "Photo Walks",
+                "Aarti Viewing",
+                "Street Portraits"
+            ],
+            "services": [
+                {
+                    "category": "photography_tour",
+                    "description": "3-hour guided photo walk covering the ghats and narrow alleys, including a mini-photoshoot",
+                    "duration_hours": 3,
+                    "price_per_hour": 600,
+                    "fixed_price": 1600,
+                    "max_group_size": 3,
+                    "includes": [
+                        "Camera setting assistance",
+                        "15 edited portraits",
+                        "Chai breaks"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
                     "Saturday",
                     "Sunday"
                 ],
@@ -113,467 +579,80 @@
             },
             "reviews_snapshot": [
                 {
-                    "tourist_name": "Emma from Australia",
+                    "tourist_name": "Liam from Ireland",
                     "rating": 5,
-                    "comment": "Rajesh showed us the real Delhi. Maps would've never taken us to those places!"
+                    "comment": "Aryan knows the exact spots for the perfect golden hour shots. Highly recommended!"
                 }
             ]
         },
         {
-            "id": "LB-VNS-2024-002",
-            "name": "Ananya Mishra",
-            "age": 28,
-            "gender": "female",
-            "city": "Varanasi",
+            "id": "LB-AGR-2024-009",
+            "name": "Dr. Arvind Patel",
+            "age": 58,
+            "gender": "male",
+            "city": "Agra",
             "state": "Uttar Pradesh",
-            "years_lived": 28,
+            "years_lived": 30,
             "languages": [
                 "Hindi",
                 "English",
-                "Bhojpuri"
+                "Urdu"
             ],
             "contact": {
-                "phone": "+91-8765432109",
-                "email": "ananya.varanasi@gmail.com",
-                "instagram": "@varanasi_diaries_ananya"
+                "phone": "+91-9876543218",
+                "email": "arvind.history@gmail.com",
+                "instagram": "@agra_archives"
             },
             "verification": {
                 "police_verification": true,
-                "verification_id": "PV-VNS-2024-78934",
-                "verified_date": "2024-02-20",
+                "verification_id": "PV-AGR-2024-33445",
+                "verified_date": "2024-01-05",
                 "government_id_verified": true
             },
             "address": {
-                "area": "Assi Ghat",
-                "pincode": "221005",
-                "landmark": "Near Tulsi Ghat"
+                "area": "Tajganj",
+                "pincode": "282001",
+                "landmark": "Near East Gate"
             },
-            "profile_pic": "https://placeholder-cdn.com/ananya-profile.jpg",
-            "profession": "Yoga Instructor & Cultural Guide",
-            "bio": "Varanasi is not just a city—it's a feeling. I grew up on the ghats, learned yoga from sadhus, and know every sunrise spot. Let me decode Kashi for you.",
-            "rating": 4.9,
-            "total_tours": 183,
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880822/ChatGPT_Image_May_3_2026_02_59_51_PM_u8zgxl.png",
+            "profession": "Retired History Professor",
+            "bio": "I have spent decades studying Mughal architecture. Skip the standard scripts and join me for a deep dive into the engineering and poetry etched into the walls of Agra.",
+            "rating": 5.0,
+            "total_tours": 412,
             "skills": [
-                "Spiritual Guidance",
-                "Photography",
-                "Cultural Storytelling",
-                "Language Translation",
-                "Safety Navigation"
+                "Deep Historical Knowledge",
+                "Academic Research",
+                "Crowd Avoidance",
+                "Multilingual"
             ],
             "specializations": [
-                "Ghat Walks",
-                "Spiritual Tourism",
-                "Sunrise/Sunset Tours",
-                "Women-Friendly Tours"
+                "Mughal Architecture",
+                "Taj Mahal History",
+                "Fatehpur Sikri Excursions"
             ],
             "services": [
                 {
-                    "category": "best_places_to_eat",
-                    "description": "Authentic Banarasi food tour: Kachori, lassi, chaat, and sweets from 100-year-old shops",
-                    "duration_hours": 2.5,
-                    "price_per_hour": 400,
-                    "fixed_price": 900,
-                    "max_group_size": 5,
-                    "includes": [
-                        "Vegetarian food only",
-                        "Hygiene tips",
-                        "Cultural context",
-                        "Recipe stories"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Offbeat Varanasi: Lesser-known ghats, artisan workshops, silk weavers, mud pottery villages",
-                    "duration_hours": 4,
-                    "price_per_hour": 450,
-                    "fixed_price": 1600,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Ganga Aarti timing advice",
-                        "Safe navigation",
-                        "Photography",
-                        "Cultural insights"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Spiritual Varanasi immersion: Sunrise boat ride, ghats, temples, evening aarti, local life (7 hours)",
-                    "duration_hours": 7,
-                    "price_per_hour": 500,
-                    "fixed_price": 3200,
-                    "max_group_size": 3,
-                    "includes": [
-                        "Boat ride coordination",
-                        "Temple etiquette guidance",
-                        "Photography",
-                        "Meditation spots",
-                        "Safety tips"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "early_morning",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 48
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Marco from Italy",
-                    "rating": 5,
-                    "comment": "Ananya made us feel safe and explained every ritual. Best guide we've ever had."
-                }
-            ]
-        },
-        {
-            "id": "LB-GOA-2024-003",
-            "name": "Rohan D'Souza",
-            "age": 35,
-            "gender": "male",
-            "city": "Panaji",
-            "state": "Goa",
-            "years_lived": 35,
-            "languages": [
-                "English",
-                "Konkani",
-                "Hindi",
-                "Portuguese"
-            ],
-            "contact": {
-                "phone": "+91-7654321098",
-                "email": "rohan.goa@gmail.com",
-                "instagram": "@goa_offbeat_rohan"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-GOA-2024-12345",
-                "verified_date": "2024-01-10",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Fontainhas",
-                "pincode": "403001",
-                "landmark": "Near Altinho Hill"
-            },
-            "profile_pic": "https://placeholder-cdn.com/rohan-profile.jpg",
-            "profession": "Marine Biologist & Adventure Guide",
-            "bio": "Forget Baga and Calangute. I'll take you to secret beaches, spice plantations, and the real Goan villages where my grandparents still live.",
-            "rating": 4.7,
-            "total_tours": 312,
-            "skills": [
-                "Adventure Sports Knowledge",
-                "Photography",
-                "Marine Life Education",
-                "Nightlife Navigation",
-                "Vehicle Recommendations"
-            ],
-            "specializations": [
-                "Offbeat Beaches",
-                "Water Sports",
-                "Portuguese Heritage",
-                "Seafood Tours"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Authentic Goan seafood tour: Family-run beach shacks, hidden fish curry spots, feni tasting",
-                    "duration_hours": 3,
-                    "price_per_hour": 500,
-                    "fixed_price": 1400,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Non-touristy spots",
-                        "Seafood recommendations",
-                        "Feni education",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Secret Goa: Abandoned forts, hidden waterfalls, artisan villages, sunset viewpoints",
-                    "duration_hours": 6,
-                    "price_per_hour": 550,
-                    "fixed_price": 3000,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Transport tips",
-                        "Photography spots",
-                        "Swimming safety",
-                        "Weather guidance"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Goa package: Beaches, heritage, nightlife, markets, adventure (10 hours)",
-                    "duration_hours": 10,
-                    "price_per_hour": 600,
-                    "fixed_price": 5500,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Full-day planning",
-                        "Vehicle rental advice",
-                        "Club recommendations",
-                        "Safety tips",
-                        "Photography"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "afternoon",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 36
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Sophie from France",
-                    "rating": 5,
-                    "comment": "Rohan showed us beaches we never knew existed. Google Maps failed, he didn't!"
-                }
-            ]
-        },
-        {
-            "id": "LB-UDR-2024-004",
-            "name": "Meera Chauhan",
-            "age": 29,
-            "gender": "female",
-            "city": "Udaipur",
-            "state": "Rajasthan",
-            "years_lived": 29,
-            "languages": [
-                "Hindi",
-                "English",
-                "Mewari",
-                "Gujarati"
-            ],
-            "contact": {
-                "phone": "+91-6543210987",
-                "email": "meera.udaipur@gmail.com",
-                "instagram": "@udaipur_tales_meera"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-UDR-2024-56789",
-                "verified_date": "2024-04-05",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Old City",
-                "pincode": "313001",
-                "landmark": "Near Jagdish Temple"
-            },
-            "profile_pic": "https://placeholder-cdn.com/meera-profile.jpg",
-            "profession": "Historian & Heritage Consultant",
-            "bio": "I grew up in the shadow of palaces. I know which rooftop cafes have the best lake views, which markets sell real handicrafts, and when to visit temples for peace.",
-            "rating": 4.9,
-            "total_tours": 201,
-            "skills": [
-                "Royal History Expertise",
-                "Photography",
-                "Handicraft Knowledge",
-                "Luxury Travel Planning",
-                "Cultural Etiquette"
-            ],
-            "specializations": [
-                "Palace Tours",
-                "Lake Experiences",
-                "Handicraft Shopping",
-                "Photography Tours"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Royal Rajasthani food trail: Dal Baati Churma, rooftop restaurants, sweet shops",
-                    "duration_hours": 2.5,
-                    "price_per_hour": 450,
-                    "fixed_price": 1000,
-                    "max_group_size": 5,
-                    "includes": [
-                        "Vegetarian focus",
-                        "Lake-view dining",
-                        "Cultural stories",
-                        "Recipe origins"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Beyond City Palace: Hidden havelis, artisan workshops, Bagore ki Haveli evening show",
+                    "category": "historical_deep_dive",
+                    "description": "Comprehensive 4-hour tour of the Taj Mahal and Agra Fort focusing on untold historical details",
                     "duration_hours": 4,
                     "price_per_hour": 500,
-                    "fixed_price": 1800,
+                    "fixed_price": 2000,
                     "max_group_size": 4,
                     "includes": [
-                        "Timing optimization",
-                        "Photography",
-                        "Handicraft shopping tips",
-                        "Cultural dance info"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Udaipur luxury experience: Palaces, boat rides, markets, sunset, dinner (8 hours)",
-                    "duration_hours": 8,
-                    "price_per_hour": 550,
-                    "fixed_price": 4000,
-                    "max_group_size": 3,
-                    "includes": [
-                        "Boat booking",
-                        "VIP palace access tips",
-                        "Photography",
-                        "Shopping guidance",
-                        "Restaurant reservations"
+                        "Skip-the-line advice",
+                        "Historical documentation review",
+                        "Detailed explanations"
                     ]
                 }
             ],
             "availability": {
                 "days": [
                     "Monday",
-                    "Tuesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 48
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "David from USA",
-                    "rating": 5,
-                    "comment": "Meera's knowledge of Udaipur's history is unmatched. She made every palace come alive."
-                }
-            ]
-        },
-        {
-            "id": "LB-MCL-2024-005",
-            "name": "Arjun Nair",
-            "age": 31,
-            "gender": "male",
-            "city": "Munnar",
-            "state": "Kerala",
-            "years_lived": 31,
-            "languages": [
-                "Malayalam",
-                "English",
-                "Tamil",
-                "Hindi"
-            ],
-            "contact": {
-                "phone": "+91-5432109876",
-                "email": "arjun.munnar@gmail.com",
-                "instagram": "@munnar_trails_arjun"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-MCL-2024-98765",
-                "verified_date": "2024-03-28",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Old Munnar",
-                "pincode": "685612",
-                "landmark": "Near Tata Tea Museum"
-            },
-            "profile_pic": "https://placeholder-cdn.com/arjun-profile.jpg",
-            "profession": "Naturalist & Trekking Guide",
-            "bio": "Born in tea estates, raised in the hills. I know every trekking path, tea garden, waterfall, and the best time to see Neelakurinji bloom.",
-            "rating": 4.8,
-            "total_tours": 267,
-            "skills": [
-                "Trekking Expertise",
-                "Wildlife Knowledge",
-                "Photography",
-                "Tea Plantation Tours",
-                "Weather Forecasting"
-            ],
-            "specializations": [
-                "Tea Estate Tours",
-                "Trekking",
-                "Wildlife Spotting",
-                "Nature Photography"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Kerala cuisine tour: Appam, stew, banana chips, local toddy shops (family-friendly options)",
-                    "duration_hours": 2,
-                    "price_per_hour": 400,
-                    "fixed_price": 750,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian and non-veg options",
-                        "Cultural context",
-                        "Recipe stories",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Offbeat Munnar: Echo Point alternatives, hidden waterfalls, tea workers' villages",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2300,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Trekking safety",
-                        "Weather guidance",
-                        "Photography spots",
-                        "Tea tasting"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Munnar immersion: Tea estates, trekking, wildlife, waterfalls, markets (9 hours)",
-                    "duration_hours": 9,
-                    "price_per_hour": 550,
-                    "fixed_price": 4500,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Full-day trekking support",
-                        "Wildlife spotting",
-                        "Tea factory tour",
-                        "Photography",
-                        "Transport tips"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
                     "Wednesday",
                     "Thursday",
-                    "Saturday",
                     "Sunday"
                 ],
                 "preferred_timings": [
-                    "early_morning",
                     "morning"
                 ],
                 "advance_booking_required": true,
@@ -581,1734 +660,71 @@
             },
             "reviews_snapshot": [
                 {
-                    "tourist_name": "Lisa from Germany",
+                    "tourist_name": "Eleanor from USA",
                     "rating": 5,
-                    "comment": "Arjun took us trekking to places Google Maps doesn't even show. Unforgettable experience!"
+                    "comment": "It was like walking through a living history book. Dr. Patel is an absolute treasure."
                 }
             ]
         },
         {
-            "id": "LB-JAI-2024-006",
-            "name": "Vikram Singh Rathore",
-            "age": 38,
-            "gender": "male",
-            "city": "Jaipur",
-            "state": "Rajasthan",
-            "years_lived": 38,
-            "languages": [
-                "Hindi",
-                "English",
-                "Rajasthani"
-            ],
-            "contact": {
-                "phone": "+91-9988776655",
-                "email": "vikram.jaipur@gmail.com",
-                "instagram": "@pink_city_vikram"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-JAI-2024-11223",
-                "verified_date": "2024-02-14",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "MI Road",
-                "pincode": "302001",
-                "landmark": "Near Rajmandir Cinema"
-            },
-            "profile_pic": "https://placeholder-cdn.com/vikram-profile.jpg",
-            "profession": "Architect & Heritage Guide",
-            "bio": "My family has lived in Jaipur for seven generations. I can tell you stories about Hawa Mahal that even architects don't know.",
-            "rating": 4.7,
-            "total_tours": 298,
-            "skills": [
-                "Architecture Analysis",
-                "Royal History",
-                "Block Printing Knowledge",
-                "Photography",
-                "Gem & Jewelry Expertise"
-            ],
-            "specializations": [
-                "Fort Tours",
-                "Jewelry Shopping",
-                "Block Printing Workshops",
-                "Photography Locations"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Royal Jaipur food tour: Laal Maas, Ghewar, LMB sweets, rooftop cafes",
-                    "duration_hours": 3,
-                    "price_per_hour": 450,
-                    "fixed_price": 1250,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian and non-veg options",
-                        "Historical context",
-                        "Recipe stories",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Hidden Jaipur: Panna Meena Kund, Galtaji Temple, artisan colonies, stepwells",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2400,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Architecture insights",
-                        "Photography",
-                        "Shopping tips",
-                        "Transport guidance"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Pink City: Amber Fort, City Palace, markets, jewelry, block printing (9 hours)",
-                    "duration_hours": 9,
-                    "price_per_hour": 550,
-                    "fixed_price": 4700,
-                    "max_group_size": 4,
-                    "includes": [
-                        "All-day guidance",
-                        "Gem authentication",
-                        "Bargaining support",
-                        "Photography",
-                        "Cultural insights"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 24
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Rachel from UK",
-                    "rating": 5,
-                    "comment": "Vikram's architectural knowledge is incredible. He showed us Jaipur through an expert's eyes."
-                }
-            ]
-        },
-        {
-            "id": "LB-AGR-2024-007",
-            "name": "Priya Agarwal",
-            "age": 27,
-            "gender": "female",
-            "city": "Agra",
-            "state": "Uttar Pradesh",
-            "years_lived": 27,
-            "languages": [
-                "Hindi",
-                "English",
-                "Urdu"
-            ],
-            "contact": {
-                "phone": "+91-8877665544",
-                "email": "priya.agra@gmail.com",
-                "instagram": "@agra_beyond_taj"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-AGR-2024-33445",
-                "verified_date": "2024-01-22",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Sadar Bazaar",
-                "pincode": "282001",
-                "landmark": "Near Kinari Bazaar"
-            },
-            "profile_pic": "https://placeholder-cdn.com/priya-profile.jpg",
-            "profession": "Art Historian & Marble Craft Expert",
-            "bio": "Agra is more than the Taj. I'll show you the real Mughal city, marble workshops, and food that locals guard like secrets.",
-            "rating": 4.8,
-            "total_tours": 176,
-            "skills": [
-                "Mughal History",
-                "Marble Craft Knowledge",
-                "Photography",
-                "Shopping Navigation",
-                "Crowd Management"
-            ],
-            "specializations": [
-                "Taj Mahal Sunrise Tours",
-                "Marble Shopping",
-                "Mughal Heritage",
-                "Food Tours"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Agra street food: Petha varieties, Bedai, Jalebi, hidden biryani spots",
-                    "duration_hours": 2.5,
-                    "price_per_hour": 400,
-                    "fixed_price": 900,
-                    "max_group_size": 5,
-                    "includes": [
-                        "Vegetarian focus",
-                        "Authentic spots",
-                        "History of dishes",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Beyond Taj: Fatehpur Sikri, Itmad-ud-Daulah, Mehtab Bagh sunset, marble workshops",
-                    "duration_hours": 6,
-                    "price_per_hour": 500,
-                    "fixed_price": 2800,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Sunrise timing",
-                        "Crowd avoidance",
-                        "Photography",
-                        "Shopping guidance"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Agra: Taj Mahal, fort, markets, marble craft, food (8 hours)",
-                    "duration_hours": 8,
-                    "price_per_hour": 550,
-                    "fixed_price": 4200,
-                    "max_group_size": 3,
-                    "includes": [
-                        "Skip-the-line tips",
-                        "Photography angles",
-                        "Marble authentication",
-                        "Transport",
-                        "Food stops"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "early_morning",
-                    "morning"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 36
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Carlos from Spain",
-                    "rating": 5,
-                    "comment": "Priya helped us see Taj at sunrise with almost no crowd. Perfect experience!"
-                }
-            ]
-        },
-        {
-            "id": "LB-MUM-2024-008",
-            "name": "Aditya Mehta",
-            "age": 33,
-            "gender": "male",
-            "city": "Mumbai",
-            "state": "Maharashtra",
-            "years_lived": 33,
-            "languages": [
-                "Marathi",
-                "Hindi",
-                "English",
-                "Gujarati"
-            ],
-            "contact": {
-                "phone": "+91-7766554433",
-                "email": "aditya.mumbai@gmail.com",
-                "instagram": "@mumbai_local_aditya"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-MUM-2024-55667",
-                "verified_date": "2024-03-01",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Bandra West",
-                "pincode": "400050",
-                "landmark": "Near Bandstand"
-            },
-            "profile_pic": "https://placeholder-cdn.com/aditya-profile.jpg",
-            "profession": "Film Industry Professional & City Guide",
-            "bio": "Mumbai is my heartbeat. From Dharavi tours to Bollywood studio visits, I'll show you the city's real pulse beyond Marine Drive.",
-            "rating": 4.6,
-            "total_tours": 421,
-            "skills": [
-                "Film Industry Knowledge",
-                "Photography",
-                "Street Food Expert",
-                "Public Transport Navigation",
-                "Nightlife Guide"
-            ],
-            "specializations": [
-                "Bollywood Tours",
-                "Street Food",
-                "Slum Tourism",
-                "Art District Walks"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Mumbai food marathon: Vada pav, pav bhaji, seafood, Irani cafe, chaat",
-                    "duration_hours": 4,
-                    "price_per_hour": 500,
-                    "fixed_price": 1800,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Hygiene-safe spots",
-                        "Cultural stories",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Real Mumbai: Dharavi, Dhobi Ghat, Chor Bazaar, Kala Ghoda Art District",
-                    "duration_hours": 5,
-                    "price_per_hour": 550,
-                    "fixed_price": 2500,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Local train experience",
-                        "Safety guidance",
-                        "Photography",
-                        "Community insights"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Mumbai: Gateway, markets, Bollywood studio, street food, nightlife (10 hours)",
-                    "duration_hours": 10,
-                    "price_per_hour": 600,
-                    "fixed_price": 5800,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Full-day planning",
-                        "Transport navigation",
-                        "Studio access",
-                        "Photography",
-                        "Safety tips"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "afternoon",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 48
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Hannah from Canada",
-                    "rating": 5,
-                    "comment": "Aditya made Mumbai accessible and safe. The Dharavi tour was eye-opening and respectful."
-                }
-            ]
-        },
-        {
-            "id": "LB-KOL-2024-009",
-            "name": "Sourav Chatterjee",
-            "age": 36,
-            "gender": "male",
-            "city": "Kolkata",
-            "state": "West Bengal",
-            "years_lived": 36,
-            "languages": [
-                "Bengali",
-                "Hindi",
-                "English"
-            ],
-            "contact": {
-                "phone": "+91-6655443322",
-                "email": "sourav.kolkata@gmail.com",
-                "instagram": "@calcutta_chronicles"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-KOL-2024-77889",
-                "verified_date": "2024-02-28",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Park Street",
-                "pincode": "700016",
-                "landmark": "Near Flury's"
-            },
-            "profile_pic": "https://placeholder-cdn.com/sourav-profile.jpg",
-            "profession": "Literature Professor & Heritage Guide",
-            "bio": "Kolkata isn't just a city, it's poetry in motion. Let me take you through Tagore's lanes, colonial architecture, and rosogolla shops.",
-            "rating": 4.9,
-            "total_tours": 234,
-            "skills": [
-                "Bengali Literature",
-                "Colonial History",
-                "Photography",
-                "Tram Navigation",
-                "Sweet Shop Knowledge"
-            ],
-            "specializations": [
-                "Literary Walks",
-                "Colonial Heritage",
-                "Food Tours",
-                "Durga Puja Tours"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Bengali food tour: Rosogolla, mishti doi, fish curry, Kolkata biryani, street rolls",
-                    "duration_hours": 3,
-                    "price_per_hour": 450,
-                    "fixed_price": 1200,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Sweet shop history",
-                        "Recipe origins",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Offbeat Kolkata: Kumartuli, College Street, Marble Palace, tram ride, Princep Ghat",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2300,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Tram experience",
-                        "Bookshop exploration",
-                        "Photography",
-                        "Literary history"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Kolkata: Victoria Memorial, Howrah Bridge, markets, literature spots, food (8 hours)",
-                    "duration_hours": 8,
-                    "price_per_hour": 550,
-                    "fixed_price": 4100,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Full-day guidance",
-                        "Transport tips",
-                        "Photography",
-                        "Cultural context",
-                        "Book recommendations"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "afternoon"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 24
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Oliver from UK",
-                    "rating": 5,
-                    "comment": "Sourav brought Kolkata's literary soul to life. Best cultural tour we've ever experienced."
-                }
-            ]
-        },
-        {
-            "id": "LB-HYD-2024-010",
-            "name": "Fatima Khan",
-            "age": 30,
-            "gender": "female",
-            "city": "Hyderabad",
-            "state": "Telangana",
-            "years_lived": 30,
-            "languages": [
-                "Telugu",
-                "Urdu",
-                "Hindi",
-                "English"
-            ],
-            "contact": {
-                "phone": "+91-5544332211",
-                "email": "fatima.hyderabad@gmail.com",
-                "instagram": "@hyderabad_heritage_fatima"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-HYD-2024-99001",
-                "verified_date": "2024-03-10",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Charminar",
-                "pincode": "500002",
-                "landmark": "Near Laad Bazaar"
-            },
-            "profile_pic": "https://placeholder-cdn.com/fatima-profile.jpg",
-            "profession": "Historian & Pearl Expert",
-            "bio": "Hyderabad's Nizami culture runs in my blood. I know which biryani shop actually uses the dum method and where to buy real pearls.",
-            "rating": 4.8,
-            "total_tours": 192,
-            "skills": [
-                "Nizami History",
-                "Pearl Authentication",
-                "Urdu Poetry",
-                "Photography",
-                "Biryani Expertise"
-            ],
-            "specializations": [
-                "Heritage Walks",
-                "Pearl Shopping",
-                "Food Tours",
-                "Fort Tours"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Hyderabadi food trail: Authentic biryani, haleem, Irani chai, Osmania biscuits, street food",
-                    "duration_hours": 3,
-                    "price_per_hour": 450,
-                    "fixed_price": 1250,
-                    "max_group_size": 5,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Cooking method insights",
-                        "Recipe history",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Hidden Hyderabad: Paigah Tombs, Taramati Baradari, Qutb Shahi Tombs, pearl market",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2400,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Pearl authentication",
-                        "Photography",
-                        "Shopping guidance",
-                        "Historical context"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Hyderabad: Charminar, Golconda Fort, markets, biryani, pearls (9 hours)",
-                    "duration_hours": 9,
-                    "price_per_hour": 550,
-                    "fixed_price": 4700,
-                    "max_group_size": 3,
-                    "includes": [
-                        "All-day guidance",
-                        "Fort light-and-sound show",
-                        "Shopping support",
-                        "Photography",
-                        "Transport"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 36
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "James from USA",
-                    "rating": 5,
-                    "comment": "Fatima's knowledge of Nizami heritage is exceptional. She helped us find authentic pearls!"
-                }
-            ]
-        },
-        {
-            "id": "LB-CHN-2024-011",
-            "name": "Karthik Raman",
+            "id": "LB-TAW-2024-010",
+            "name": "Tenzin Dorjee",
             "age": 34,
             "gender": "male",
-            "city": "Chennai",
-            "state": "Tamil Nadu",
+            "city": "Tawang",
+            "state": "Arunachal Pradesh",
             "years_lived": 34,
             "languages": [
-                "Tamil",
-                "English",
-                "Telugu",
-                "Hindi"
-            ],
-            "contact": {
-                "phone": "+91-4433221100",
-                "email": "karthik.chennai@gmail.com",
-                "instagram": "@chennai_insider_karthik"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-CHN-2024-22334",
-                "verified_date": "2024-01-18",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Mylapore",
-                "pincode": "600004",
-                "landmark": "Near Kapaleeshwarar Temple"
-            },
-            "profile_pic": "https://placeholder-cdn.com/karthik-profile.jpg",
-            "profession": "Classical Music Teacher & Cultural Guide",
-            "bio": "Chennai's temple architecture, Carnatic music, and filter coffee culture are my expertise. Let me show you the city's classical soul.",
-            "rating": 4.7,
-            "total_tours": 156,
-            "skills": [
-                "Temple Architecture",
-                "Classical Music",
-                "Photography",
-                "Silk Saree Knowledge",
-                "Beach Safety"
-            ],
-            "specializations": [
-                "Temple Tours",
-                "Classical Music Experiences",
-                "Food Tours",
-                "Silk Shopping"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Authentic Chennai food: Filter coffee, idli varieties, Chettinad cuisine, street snacks",
-                    "duration_hours": 3,
-                    "price_per_hour": 400,
-                    "fixed_price": 1100,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian focus",
-                        "Coffee culture",
-                        "Recipe origins",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Cultural Chennai: Dakshinachitra, Mahabalipuram, silk saree shops, classical music venue",
-                    "duration_hours": 6,
-                    "price_per_hour": 500,
-                    "fixed_price": 2800,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Temple etiquette",
-                        "Music appreciation",
-                        "Photography",
-                        "Shopping guidance"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Chennai: Temples, Marina Beach, markets, music, silk, food (8 hours)",
-                    "duration_hours": 8,
-                    "price_per_hour": 550,
-                    "fixed_price": 4200,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Full-day guidance",
-                        "Music event access",
-                        "Photography",
-                        "Cultural context",
-                        "Transport"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "afternoon"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 48
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Marie from Belgium",
-                    "rating": 5,
-                    "comment": "Karthik explained Tamil culture beautifully. The temple tour was deeply enlightening."
-                }
-            ]
-        },
-        {
-            "id": "LB-BLR-2024-012",
-            "name": "Sneha Rao",
-            "age": 28,
-            "gender": "female",
-            "city": "Bangalore",
-            "state": "Karnataka",
-            "years_lived": 28,
-            "languages": [
-                "Kannada",
-                "English",
-                "Hindi",
-                "Tamil"
-            ],
-            "contact": {
-                "phone": "+91-3322110099",
-                "email": "sneha.bangalore@gmail.com",
-                "instagram": "@namma_bengaluru_sneha"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-BLR-2024-44556",
-                "verified_date": "2024-02-05",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Indiranagar",
-                "pincode": "560038",
-                "landmark": "Near 100 Feet Road"
-            },
-            "profile_pic": "https://placeholder-cdn.com/sneha-profile.jpg",
-            "profession": "Tech Industry Professional & Urban Guide",
-            "bio": "Bangalore is where tradition meets tech. I'll show you ancient temples, craft beer breweries, and startup culture in one day.",
-            "rating": 4.6,
-            "total_tours": 218,
-            "skills": [
-                "Tech Culture Knowledge",
-                "Craft Beer Expert",
-                "Photography",
-                "Garden Navigation",
-                "Startup Ecosystem"
-            ],
-            "specializations": [
-                "Brewery Tours",
-                "Garden Walks",
-                "Tech Culture",
-                "Food Tours"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Bangalore food tour: South Indian breakfast, street food, craft beer, coffee culture",
-                    "duration_hours": 3.5,
-                    "price_per_hour": 500,
-                    "fixed_price": 1600,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Brewery recommendations",
-                        "Coffee culture",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Modern Bangalore: Cubbon Park, Lalbagh, microbreweries, bookshops, startup hubs",
-                    "duration_hours": 5,
-                    "price_per_hour": 550,
-                    "fixed_price": 2500,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Garden tours",
-                        "Beer tasting guidance",
-                        "Photography",
-                        "Tech culture insights"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Bangalore: Palaces, gardens, temples, breweries, markets, tech culture (9 hours)",
-                    "duration_hours": 9,
-                    "price_per_hour": 600,
-                    "fixed_price": 5100,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Full-day planning",
-                        "Transport tips",
-                        "Photography",
-                        "Startup ecosystem tour",
-                        "Food stops"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "afternoon",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 24
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Alex from USA",
-                    "rating": 5,
-                    "comment": "Sneha perfectly balanced Bangalore's old and new. Great brewery recommendations!"
-                }
-            ]
-        },
-        {
-            "id": "LB-AMD-2024-013",
-            "name": "Ravi Patel",
-            "age": 37,
-            "gender": "male",
-            "city": "Ahmedabad",
-            "state": "Gujarat",
-            "years_lived": 37,
-            "languages": [
-                "Gujarati",
-                "Hindi",
-                "English"
-            ],
-            "contact": {
-                "phone": "+91-2211009988",
-                "email": "ravi.ahmedabad@gmail.com",
-                "instagram": "@ahmedabad_heritage_ravi"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-AMD-2024-66778",
-                "verified_date": "2024-03-20",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Paldi",
-                "pincode": "380007",
-                "landmark": "Near Sabarmati Ashram"
-            },
-            "profile_pic": "https://placeholder-cdn.com/ravi-profile.jpg",
-            "profession": "Textile Designer & Heritage Guide",
-            "bio": "Ahmedabad's textile heritage, Gandhian history, and vegetarian food culture are what I live and breathe. Let me decode this UNESCO city for you.",
-            "rating": 4.8,
-            "total_tours": 167,
-            "skills": [
-                "Textile Knowledge",
-                "Gandhian Philosophy",
-                "Photography",
-                "Vegetarian Food Expert",
-                "Architecture"
-            ],
-            "specializations": [
-                "Heritage Walks",
-                "Textile Tours",
-                "Food Tours",
-                "Ashram Visits"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Gujarati vegetarian food tour: Thali, Khakhra, Dhokla, Fafda, sweet shops",
-                    "duration_hours": 2.5,
-                    "price_per_hour": 400,
-                    "fixed_price": 900,
-                    "max_group_size": 6,
-                    "includes": [
-                        "100% vegetarian",
-                        "Cultural context",
-                        "Recipe stories",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Heritage Ahmedabad: Old city pols, step wells, textile museum, Calico Museum",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2300,
-                    "max_group_size": 4,
-                    "includes": [
-                        "UNESCO heritage context",
-                        "Photography",
-                        "Textile shopping tips",
-                        "Architecture insights"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Ahmedabad: Sabarmati Ashram, heritage pols, textiles, kite museum, food (8 hours)",
-                    "duration_hours": 8,
-                    "price_per_hour": 550,
-                    "fixed_price": 4100,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Gandhi's philosophy",
-                        "Textile workshop visits",
-                        "Photography",
-                        "Shopping guidance",
-                        "Transport"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "afternoon"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 36
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Julia from Germany",
-                    "rating": 5,
-                    "comment": "Ravi's textile knowledge is phenomenal. The heritage walk was absolutely enriching."
-                }
-            ]
-        },
-        {
-            "id": "LB-PNE-2024-014",
-            "name": "Aditi Kulkarni",
-            "age": 31,
-            "gender": "female",
-            "city": "Pune",
-            "state": "Maharashtra",
-            "years_lived": 31,
-            "languages": [
-                "Marathi",
-                "Hindi",
-                "English"
-            ],
-            "contact": {
-                "phone": "+91-1100998877",
-                "email": "aditi.pune@gmail.com",
-                "instagram": "@pune_beyond_limits"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-PNE-2024-88990",
-                "verified_date": "2024-01-25",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Koregaon Park",
-                "pincode": "411001",
-                "landmark": "Near Osho Ashram"
-            },
-            "profile_pic": "https://placeholder-cdn.com/aditi-profile.jpg",
-            "profession": "Fitness Coach & Adventure Guide",
-            "bio": "Pune's forts, trekking trails, and wellness culture are my playground. I'll take you beyond cafes to the real Maratha heartland.",
-            "rating": 4.7,
-            "total_tours": 203,
-            "skills": [
-                "Trekking",
-                "Maratha History",
-                "Wellness Tourism",
-                "Photography",
-                "Fort Navigation"
-            ],
-            "specializations": [
-                "Fort Treks",
-                "Adventure Tours",
-                "Wellness Experiences",
-                "Food Tours"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Pune food tour: Misal pav, bhakarwadi, mastani, German bakery, street chaat",
-                    "duration_hours": 3,
-                    "price_per_hour": 450,
-                    "fixed_price": 1200,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Cafe culture",
-                        "Recipe origins",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Adventure Pune: Sinhagad Fort trek, Shaniwar Wada, Aga Khan Palace, local markets",
-                    "duration_hours": 6,
-                    "price_per_hour": 500,
-                    "fixed_price": 2800,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Trekking guidance",
-                        "Maratha history",
-                        "Photography",
-                        "Safety tips"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Pune: Fort trek, heritage, wellness centers, cafes, markets (9 hours)",
-                    "duration_hours": 9,
-                    "price_per_hour": 550,
-                    "fixed_price": 4700,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Full-day planning",
-                        "Trek support",
-                        "Wellness tour",
-                        "Photography",
-                        "Transport"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "early_morning",
-                    "morning"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 48
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Thomas from Australia",
-                    "rating": 5,
-                    "comment": "Aditi made the Sinhagad trek unforgettable. Her Maratha history knowledge is impressive!"
-                }
-            ]
-        },
-        {
-            "id": "LB-KOC-2024-015",
-            "name": "Rahul Menon",
-            "age": 29,
-            "gender": "male",
-            "city": "Kochi",
-            "state": "Kerala",
-            "years_lived": 29,
-            "languages": [
-                "Malayalam",
-                "English",
-                "Hindi",
-                "Tamil"
-            ],
-            "contact": {
-                "phone": "+91-9988776655",
-                "email": "rahul.kochi@gmail.com",
-                "instagram": "@kochi_spice_routes"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-KOC-2024-11223",
-                "verified_date": "2024-02-12",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Fort Kochi",
-                "pincode": "682001",
-                "landmark": "Near Chinese Fishing Nets"
-            },
-            "profile_pic": "https://placeholder-cdn.com/rahul-profile.jpg",
-            "profession": "Marine Engineer & Backwater Guide",
-            "bio": "Kochi's colonial past, spice trade history, and backwater secrets are in my DNA. I grew up watching ships from five continents dock here.",
-            "rating": 4.8,
-            "total_tours": 189,
-            "skills": [
-                "Maritime History",
-                "Spice Trade Knowledge",
-                "Photography",
-                "Backwater Navigation",
-                "Seafood Expert"
-            ],
-            "specializations": [
-                "Backwater Tours",
-                "Spice Tours",
-                "Colonial Heritage",
-                "Seafood Tours"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Kochi seafood tour: Fish curry, appam, prawns, Syrian Christian cuisine, toddy shops",
-                    "duration_hours": 3,
-                    "price_per_hour": 450,
-                    "fixed_price": 1250,
-                    "max_group_size": 5,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Cooking method insights",
-                        "Recipe history",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Colonial Kochi: Fort Kochi, Mattancherry Palace, Jew Town, spice markets, Chinese nets",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2300,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Colonial history",
-                        "Spice shopping",
-                        "Photography",
-                        "Cultural context"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Kochi: Backwaters, heritage sites, spice tour, seafood, markets (8 hours)",
-                    "duration_hours": 8,
-                    "price_per_hour": 550,
-                    "fixed_price": 4200,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Houseboat coordination",
-                        "Spice plantation",
-                        "Photography",
-                        "Shopping guidance",
-                        "Transport"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "afternoon"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 36
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Anna from Sweden",
-                    "rating": 5,
-                    "comment": "Rahul's maritime knowledge brought Kochi's history alive. Best backwater tour ever!"
-                }
-            ]
-        },
-        {
-            "id": "LB-JDH-2024-016",
-            "name": "Mahendra Singh",
-            "age": 40,
-            "gender": "male",
-            "city": "Jodhpur",
-            "state": "Rajasthan",
-            "years_lived": 40,
-            "languages": [
-                "Hindi",
-                "English",
-                "Marwari"
-            ],
-            "contact": {
-                "phone": "+91-8877665544",
-                "email": "mahendra.jodhpur@gmail.com",
-                "instagram": "@blue_city_mahendra"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-JDH-2024-33445",
-                "verified_date": "2024-03-08",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Old City",
-                "pincode": "342001",
-                "landmark": "Near Ghanta Ghar"
-            },
-            "profile_pic": "https://placeholder-cdn.com/mahendra-profile.jpg",
-            "profession": "Photographer & Desert Guide",
-            "bio": "The Blue City's rooftops, desert safaris, and Mehrangarh's secrets are what I photograph daily. Let me show you Jodhpur's soul.",
-            "rating": 4.9,
-            "total_tours": 278,
-            "skills": [
-                "Professional Photography",
-                "Desert Navigation",
-                "Royal History",
-                "Textile Knowledge",
-                "Camel Safari"
-            ],
-            "specializations": [
-                "Photography Tours",
-                "Desert Safaris",
-                "Fort Tours",
-                "Rooftop Experiences"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Marwari food tour: Mirchi bada, makhania lassi, pyaaz kachori, sweets, rooftop cafes",
-                    "duration_hours": 2.5,
-                    "price_per_hour": 400,
-                    "fixed_price": 900,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian focus",
-                        "Fort views",
-                        "Recipe stories",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Blue City exploration: Rooftop walks, step wells, Toorji Ka Jhalra, artisan quarters",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2400,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Photography masterclass",
-                        "Textile shopping",
-                        "Architecture insights",
-                        "Sunrise/sunset spots"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Jodhpur: Mehrangarh Fort, blue city, desert safari, markets, sunset (10 hours)",
-                    "duration_hours": 10,
-                    "price_per_hour": 600,
-                    "fixed_price": 5700,
-                    "max_group_size": 3,
-                    "includes": [
-                        "Camel safari",
-                        "Fort audio guide",
-                        "Photography",
-                        "Shopping support",
-                        "Desert experience"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "early_morning",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 48
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Sophia from Italy",
-                    "rating": 5,
-                    "comment": "Mahendra's photography tips transformed our shots. The blue city walk was magical!"
-                }
-            ]
-        },
-        {
-            "id": "LB-RIS-2024-017",
-            "name": "Kavita Sharma",
-            "age": 26,
-            "gender": "female",
-            "city": "Rishikesh",
-            "state": "Uttarakhand",
-            "years_lived": 26,
-            "languages": [
-                "Hindi",
-                "English",
-                "Garhwali"
-            ],
-            "contact": {
-                "phone": "+91-7766554433",
-                "email": "kavita.rishikesh@gmail.com",
-                "instagram": "@rishikesh_spirit_kavita"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-RIS-2024-55667",
-                "verified_date": "2024-01-30",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Tapovan",
-                "pincode": "249192",
-                "landmark": "Near Laxman Jhula"
-            },
-            "profile_pic": "https://placeholder-cdn.com/kavita-profile.jpg",
-            "bio": "Rishikesh raised me with the Ganga's rhythm. I teach yoga, guide rafting trips, and know every ashram's vibe. Let me show you the real yoga capital.",
-            "profession": "Certified Yoga Instructor & Adventure Guide",
-            "rating": 4.9,
-            "total_tours": 164,
-            "skills": [
-                "Yoga Instruction",
-                "White Water Rafting",
-                "Spiritual Guidance",
-                "Photography",
-                "Ayurveda Basics"
-            ],
-            "specializations": [
-                "Yoga Retreats",
-                "Adventure Sports",
-                "Spiritual Tours",
-                "Ashram Visits"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Rishikesh vegetarian tour: Sattvic cafes, ashram food, Chotiwala, organic cafes",
-                    "duration_hours": 2,
-                    "price_per_hour": 350,
-                    "fixed_price": 650,
-                    "max_group_size": 6,
-                    "includes": [
-                        "100% vegetarian",
-                        "Sattvic principles",
-                        "Cafe culture",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Spiritual Rishikesh: Beatles Ashram, Parmarth Niketan aarti, Neer Garh waterfall, meditation spots",
-                    "duration_hours": 4,
-                    "price_per_hour": 450,
-                    "fixed_price": 1700,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Ganga aarti timing",
-                        "Meditation guidance",
-                        "Photography",
-                        "Ashram etiquette"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Rishikesh: Yoga session, rafting, ashrams, waterfalls, aarti (7 hours)",
-                    "duration_hours": 7,
-                    "price_per_hour": 500,
-                    "fixed_price": 3300,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Yoga class",
-                        "Rafting coordination",
-                        "Spiritual guidance",
-                        "Photography",
-                        "Safety equipment"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "early_morning",
-                    "morning",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 48
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Lucas from Brazil",
-                    "rating": 5,
-                    "comment": "Kavita's yoga and spiritual knowledge is profound. She made Rishikesh deeply meaningful."
-                }
-            ]
-        },
-        {
-            "id": "LB-AMD-2024-018",
-            "name": "Sanjay Joshi",
-            "age": 35,
-            "gender": "male",
-            "city": "Amritsar",
-            "state": "Punjab",
-            "years_lived": 35,
-            "languages": [
-                "Punjabi",
-                "Hindi",
-                "English"
-            ],
-            "contact": {
-                "phone": "+91-6655443322",
-                "email": "sanjay.amritsar@gmail.com",
-                "instagram": "@amritsar_soul_sanjay"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-AMD-2024-77889",
-                "verified_date": "2024-02-22",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Golden Temple Road",
-                "pincode": "143001",
-                "landmark": "Near Jallianwala Bagh"
-            },
-            "profile_pic": "https://placeholder-cdn.com/sanjay-profile.jpg",
-            "profession": "History Teacher & Sikh Heritage Guide",
-            "bio": "Golden Temple's spirituality, partition history, and authentic Punjabi dhaba culture flow through my veins. Let me share Amritsar's heart.",
-            "rating": 4.8,
-            "total_tours": 226,
-            "skills": [
-                "Sikh History",
-                "Photography",
-                "Punjabi Cuisine Expert",
-                "Partition History",
-                "Temple Etiquette"
-            ],
-            "specializations": [
-                "Religious Tours",
-                "Food Tours",
-                "Historical Walks",
-                "Border Ceremony"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Punjabi food tour: Amritsari kulcha, lassi, makki di roti, authentic dhabas, street food",
-                    "duration_hours": 3,
-                    "price_per_hour": 450,
-                    "fixed_price": 1200,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Dhaba culture",
-                        "Recipe stories",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Heritage Amritsar: Partition Museum, Jallianwala Bagh, Gobindgarh Fort, heritage walk",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2300,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Historical context",
-                        "Photography",
-                        "Temple etiquette",
-                        "Cultural insights"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Amritsar: Golden Temple, Wagah Border, heritage sites, food, markets (9 hours)",
-                    "duration_hours": 9,
-                    "price_per_hour": 550,
-                    "fixed_price": 4700,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Temple volunteering option",
-                        "Border ceremony",
-                        "Photography",
-                        "Shopping guidance",
-                        "Transport"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "early_morning",
-                    "afternoon"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 24
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Elena from Russia",
-                    "rating": 5,
-                    "comment": "Sanjay explained Sikh history with such depth. The Golden Temple experience was spiritual."
-                }
-            ]
-        },
-        {
-            "id": "LB-MAD-2024-019",
-            "name": "Lakshmi Venkatesh",
-            "age": 32,
-            "gender": "female",
-            "city": "Madurai",
-            "state": "Tamil Nadu",
-            "years_lived": 32,
-            "languages": [
-                "Tamil",
-                "English",
-                "Telugu"
-            ],
-            "contact": {
-                "phone": "+91-5544332211",
-                "email": "lakshmi.madurai@gmail.com",
-                "instagram": "@madurai_temple_tales"
-            },
-            "verification": {
-                "police_verification": true,
-                "verification_id": "PV-MAD-2024-99001",
-                "verified_date": "2024-03-18",
-                "government_id_verified": true
-            },
-            "address": {
-                "area": "Town Hall Road",
-                "pincode": "625001",
-                "landmark": "Near Meenakshi Temple"
-            },
-            "profile_pic": "https://placeholder-cdn.com/lakshmi-profile.jpg",
-            "profession": "Temple Archaeologist & Cultural Guide",
-            "bio": "Madurai's temple architecture, Dravidian culture, and jasmine market stories are my life's work. Let me decode this ancient city.",
-            "rating": 4.9,
-            "total_tours": 142,
-            "skills": [
-                "Temple Architecture",
-                "Dravidian History",
-                "Photography",
-                "Textile Knowledge",
-                "Classical Dance"
-            ],
-            "specializations": [
-                "Temple Tours",
-                "Cultural Walks",
-                "Food Tours",
-                "Textile Shopping"
-            ],
-            "services": [
-                {
-                    "category": "best_places_to_eat",
-                    "description": "Madurai food tour: Jigarthanda, parotta, Chettinad meals, street snacks, sweets",
-                    "duration_hours": 2.5,
-                    "price_per_hour": 400,
-                    "fixed_price": 900,
-                    "max_group_size": 5,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Recipe origins",
-                        "Cultural context",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Cultural Madurai: Thirumalai Nayak Palace, Gandhi Museum, flower market, silk sarees",
-                    "duration_hours": 4,
-                    "price_per_hour": 500,
-                    "fixed_price": 1900,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Architecture insights",
-                        "Photography",
-                        "Shopping guidance",
-                        "Temple etiquette"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Madurai: Meenakshi Temple, markets, palace, food, evening ceremony (7 hours)",
-                    "duration_hours": 7,
-                    "price_per_hour": 550,
-                    "fixed_price": 3700,
-                    "max_group_size": 3,
-                    "includes": [
-                        "Temple ceremony timing",
-                        "Architecture tour",
-                        "Photography",
-                        "Shopping support",
-                        "Cultural insights"
-                    ]
-                }
-            ],
-            "availability": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "preferred_timings": [
-                    "morning",
-                    "evening"
-                ],
-                "advance_booking_required": true,
-                "min_notice_hours": 36
-            },
-            "reviews_snapshot": [
-                {
-                    "tourist_name": "Pierre from France",
-                    "rating": 5,
-                    "comment": "Lakshmi's temple architecture knowledge is extraordinary. Madurai came alive through her stories."
-                }
-            ]
-        },
-        {
-            "id": "LB-DAR-2024-020",
-            "name": "Tenzin Dorje",
-            "age": 28,
-            "gender": "male",
-            "city": "Darjeeling",
-            "state": "West Bengal",
-            "years_lived": 28,
-            "languages": [
-                "Nepali",
+                "Monpa",
                 "Hindi",
                 "English",
                 "Tibetan"
             ],
             "contact": {
-                "phone": "+91-4433221100",
-                "email": "tenzin.darjeeling@gmail.com",
-                "instagram": "@darjeeling_heights_tenzin"
+                "phone": "+91-9876543219",
+                "email": "tenzin.himalayas@gmail.com",
+                "instagram": "@tawang_trails"
             },
             "verification": {
                 "police_verification": true,
-                "verification_id": "PV-DAR-2024-22334",
-                "verified_date": "2024-01-15",
+                "verification_id": "PV-TAW-2024-55667",
+                "verified_date": "2024-05-12",
                 "government_id_verified": true
             },
             "address": {
-                "area": "Chowrasta",
-                "pincode": "734101",
-                "landmark": "Near Mall Road"
+                "area": "Old Market",
+                "pincode": "790104",
+                "landmark": "Near Tawang Monastery"
             },
-            "profile_pic": "https://placeholder-cdn.com/tenzin-profile.jpg",
-            "profession": "Mountain Guide & Tea Sommelier",
-            "bio": "Darjeeling's tea estates, Himalayan views, and Tibetan culture are in my blood. I'll show you the real Queen of Hills beyond tourist spots.",
-            "rating": 4.8,
-            "total_tours": 173,
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880831/ChatGPT_Image_May_3_2026_02_58_42_PM_kxv2xp.png",
+            "profession": "Himalayan Trekking Guide",
+            "bio": "Born in the land of the rising sun. I specialize in high-altitude treks, monastery visits, and introducing travelers to authentic Monpa culture and cuisine.",
+            "rating": 4.9,
+            "total_tours": 205,
             "skills": [
-                "Mountain Trekking",
-                "Tea Knowledge",
-                "Tibetan Culture",
-                "Photography",
-                "Weather Forecasting"
+                "High-Altitude Trekking",
+                "First Aid & Wilderness Survival",
+                "Cultural Interpretation",
+                "Off-roading"
             ],
             "specializations": [
-                "Tea Estate Tours",
-                "Sunrise Treks",
-                "Monastery Visits",
-                "Photography Tours"
+                "Monastery Tours",
+                "Glacial Lake Treks",
+                "Local Homestays"
             ],
             "services": [
                 {
-                    "category": "best_places_to_eat",
-                    "description": "Darjeeling food tour: Momos, thukpa, tea tasting, bakeries, Tibetan cuisine",
-                    "duration_hours": 2.5,
-                    "price_per_hour": 400,
-                    "fixed_price": 900,
-                    "max_group_size": 6,
-                    "includes": [
-                        "Vegetarian and non-veg",
-                        "Tea varieties",
-                        "Cultural context",
-                        "Photography"
-                    ]
-                },
-                {
-                    "category": "best_places_to_visit",
-                    "description": "Offbeat Darjeeling: Batasia Loop, Peace Pagoda, Himalayan Railway, monasteries, tea gardens",
-                    "duration_hours": 5,
-                    "price_per_hour": 500,
-                    "fixed_price": 2300,
-                    "max_group_size": 4,
-                    "includes": [
-                        "Sunrise timing",
-                        "Tea tasting",
-                        "Photography",
-                        "Cultural insights"
-                    ]
-                },
-                {
-                    "category": "full_city_tour",
-                    "description": "Complete Darjeeling: Tiger Hill sunrise, tea estates, toy train, monasteries, markets (8 hours)",
+                    "category": "adventure_and_culture",
+                    "description": "Full-day exploration of Tawang Monastery and a guided hike to nearby high-altitude lakes",
                     "duration_hours": 8,
-                    "price_per_hour": 550,
-                    "fixed_price": 4200,
-                    "max_group_size": 4,
+                    "price_per_hour": 400,
+                    "fixed_price": 3000,
+                    "max_group_size": 5,
                     "includes": [
-                        "Kanchenjunga views",
-                        "Tea factory tour",
-                        "Photography",
-                        "Shopping guidance",
-                        "Transport"
+                        "Transport arrangements",
+                        "Permit assistance",
+                        "Packed local lunch",
+                        "Monastery insights"
                     ]
                 }
             ],
@@ -2316,13 +732,11 @@
                 "days": [
                     "Monday",
                     "Tuesday",
-                    "Wednesday",
                     "Thursday",
-                    "Saturday",
-                    "Sunday"
+                    "Friday",
+                    "Saturday"
                 ],
                 "preferred_timings": [
-                    "early_morning",
                     "morning"
                 ],
                 "advance_booking_required": true,
@@ -2330,44 +744,94 @@
             },
             "reviews_snapshot": [
                 {
-                    "tourist_name": "Yuki from Japan",
+                    "tourist_name": "Chris from Australia",
                     "rating": 5,
-                    "comment": "Tenzin's tea knowledge is impressive. The sunrise trek to Tiger Hill was breathtaking!"
+                    "comment": "Tenzin kept us safe and showed us landscapes that took our breath away."
+                }
+            ]
+        },
+        {
+            "id": "LB-JOD-2024-011",
+            "name": "Bhawani Singh",
+            "age": 42,
+            "gender": "male",
+            "city": "Jodhpur",
+            "state": "Rajasthan",
+            "years_lived": 42,
+            "languages": [
+                "Hindi",
+                "Marwari",
+                "English"
+            ],
+            "contact": {
+                "phone": "+91-9876543220",
+                "email": "bhawani.bluecity@gmail.com",
+                "instagram": "@jodhpur_frames"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-JOD-2024-77889",
+                "verified_date": "2024-03-08",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Brahmpuri",
+                "pincode": "342001",
+                "landmark": "Near Navchokiya"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880826/ChatGPT_Image_May_3_2026_02_55_38_PM_za1z63.png",
+            "profession": "Heritage Guide & Photographer",
+            "bio": "Welcome to the Blue City! I love showing off the indigo alleys, Mehrangarh Fort views, and capturing the vibrant colors of Rajasthan with my Nikon.",
+            "rating": 4.8,
+            "total_tours": 340,
+            "skills": [
+                "Photography",
+                "Navigating Winding Alleys",
+                "Historical Storytelling",
+                "Street Food Recommendations"
+            ],
+            "specializations": [
+                "Blue City Walks",
+                "Fort Tours",
+                "Photography Expeditions"
+            ],
+            "services": [
+                {
+                    "category": "photography_walk",
+                    "description": "Early morning walk through the old blue alleys for the best light and uncrowded streets",
+                    "duration_hours": 3,
+                    "price_per_hour": 450,
+                    "fixed_price": 1200,
+                    "max_group_size": 4,
+                    "includes": [
+                        "Photography guidance",
+                        "Tea stops",
+                        "Secret viewpoints"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "afternoon"
+                ],
+                "advance_booking_required": false,
+                "min_notice_hours": 12
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Marie from France",
+                    "rating": 5,
+                    "comment": "Bhawani's eye for photos is amazing, and his stories about the city's history are captivating."
                 }
             ]
         }
-    ],
-    "metadata": {
-        "total_buddies": 20,
-        "cities_covered": [
-            "Delhi",
-            "Varanasi",
-            "Panaji",
-            "Udaipur",
-            "Munnar",
-            "Jaipur",
-            "Agra",
-            "Mumbai",
-            "Kolkata",
-            "Hyderabad",
-            "Chennai",
-            "Bangalore",
-            "Ahmedabad",
-            "Pune",
-            "Kochi",
-            "Jodhpur",
-            "Rishikesh",
-            "Amritsar",
-            "Madurai",
-            "Darjeeling"
-        ],
-        "average_rating": 4.79,
-        "verification_mandatory": true,
-        "payment_methods": [
-            "UPI",
-            "Cash",
-            "Card"
-        ],
-        "cancellation_policy": "24-48 hours advance notice required for full refund depending on tour type"
-    }
+    ]
 }
