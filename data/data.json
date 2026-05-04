@@ -832,6 +832,752 @@
                     "comment": "Bhawani's eye for photos is amazing, and his stories about the city's history are captivating."
                 }
             ]
+        },
+         {
+            "id": "LB-MUM-2024-012",
+            "name": "Tara Fernandez",
+            "age": 27,
+            "gender": "female",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "years_lived": 27,
+            "languages": [
+                "English",
+                "Hindi",
+                "Marathi"
+            ],
+            "contact": {
+                "phone": "+91-9876543221",
+                "email": "tara.streetart@gmail.com",
+                "instagram": "@tara_captures_bom"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-MUM-2024-88990",
+                "verified_date": "2024-02-15",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Bandra West",
+                "pincode": "400050",
+                "landmark": "Near Chapel Road"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880826/ChatGPT_Image_May_3_2026_03_38_13_PM_ur9vya.png",
+            "profession": "Street Art Photographer & Guide",
+            "bio": "I document the vibrant street art and graffiti culture of Mumbai. Join me for a walk through Bandra's colorful alleys, where every wall tells a story of the city's underground art scene.",
+            "rating": 4.9,
+            "total_tours": 134,
+            "skills": [
+                "Photography",
+                "Urban Culture Knowledge",
+                "Storytelling",
+                "Navigating Alleys"
+            ],
+            "specializations": [
+                "Street Art Walks",
+                "Urban Photography",
+                "Cafe Hopping"
+            ],
+            "services": [
+                {
+                    "category": "art_and_culture",
+                    "description": "2.5-hour walking tour of Bandra's iconic street art murals with photography tips.",
+                    "duration_hours": 2.5,
+                    "price_per_hour": 400,
+                    "fixed_price": 1000,
+                    "max_group_size": 5,
+                    "includes": [
+                        "Art history insights",
+                        "Photo taking assistance",
+                        "Local coffee break"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "afternoon"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 24
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Maya from Canada",
+                    "rating": 5,
+                    "comment": "Tara showed us a side of Mumbai we never would have found in guidebooks. Her energy is contagious!"
+                }
+            ]
+        },
+        {
+            "id": "LB-GOK-2024-013",
+            "name": "Nidhi Shetty",
+            "age": 25,
+            "gender": "female",
+            "city": "Gokarna",
+            "state": "Karnataka",
+            "years_lived": 5,
+            "languages": [
+                "English",
+                "Kannada",
+                "Hindi"
+            ],
+            "contact": {
+                "phone": "+91-9876543222",
+                "email": "nidhi.coastal@gmail.com",
+                "instagram": "@nidhi_gokarna_diaries"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-GOK-2024-44556",
+                "verified_date": "2024-01-20",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Kudle Beach Road",
+                "pincode": "581326",
+                "landmark": "Near Om Beach viewpoint"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880831/ChatGPT_Image_May_3_2026_03_34_28_PM_htukrt.png",
+            "profession": "Beach Trekker & Yoga Enthusiast",
+            "bio": "I left the corporate world to live by the sea. Let me take you on the famous Gokarna beach trek, show you hidden coves, and help you find the best coastal sunsets.",
+            "rating": 4.8,
+            "total_tours": 98,
+            "skills": [
+                "Coastal Trekking",
+                "Local Transport Knowledge",
+                "Photography Spots",
+                "Yoga Basics"
+            ],
+            "specializations": [
+                "Beach Treks",
+                "Sunset Viewpoints",
+                "Hidden Cafes"
+            ],
+            "services": [
+                {
+                    "category": "adventure_trail",
+                    "description": "Guided 5-beach trek spanning from Paradise Beach to Kudle Beach.",
+                    "duration_hours": 5,
+                    "price_per_hour": 300,
+                    "fixed_price": 1400,
+                    "max_group_size": 6,
+                    "includes": [
+                        "Trail guidance",
+                        "Ferry negotiation",
+                        "Hydration breaks"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Thursday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "evening"
+                ],
+                "advance_booking_required": false,
+                "min_notice_hours": 12
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Oliver from UK",
+                    "rating": 5,
+                    "comment": "Nidhi made the trek so much fun and knew exactly where to stop for the best views and cold drinks."
+                }
+            ]
+        },
+        {
+            "id": "LB-UDA-2024-014",
+            "name": "Aditi Rathore",
+            "age": 29,
+            "gender": "female",
+            "city": "Udaipur",
+            "state": "Rajasthan",
+            "years_lived": 29,
+            "languages": [
+                "Hindi",
+                "English",
+                "Mewari"
+            ],
+            "contact": {
+                "phone": "+91-9876543223",
+                "email": "aditi.lakeside@gmail.com",
+                "instagram": "@udaipur_twilight"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-UDA-2024-11222",
+                "verified_date": "2024-03-10",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Lal Ghat",
+                "pincode": "313001",
+                "landmark": "Near Jagdish Temple"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880830/ChatGPT_Image_May_3_2026_03_48_21_PM_dvhjmx.png",
+            "profession": "Heritage Storyteller",
+            "bio": "Udaipur isn't just about palaces; it's about the poetry of the lakes and the stories of the old city. Join me for golden hour walks along the ghats and royal tales.",
+            "rating": 4.9,
+            "total_tours": 215,
+            "skills": [
+                "Historical Storytelling",
+                "Sunset Photography",
+                "Local Handicraft Knowledge",
+                "Boat Ride Navigation"
+            ],
+            "specializations": [
+                "Ghat Walks",
+                "Twilight Tours",
+                "Artisan Interactions"
+            ],
+            "services": [
+                {
+                    "category": "heritage_walk",
+                    "description": "Evening stroll covering the old city alleys, local markets, and a serene lakeside sunset.",
+                    "duration_hours": 3,
+                    "price_per_hour": 500,
+                    "fixed_price": 1500,
+                    "max_group_size": 4,
+                    "includes": [
+                        "Guided storytelling",
+                        "Tea at a heritage haveli",
+                        "Market negotiation assistance"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "evening"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 24
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Sophia from Italy",
+                    "rating": 5,
+                    "comment": "Aditi's knowledge of Mewar history is fascinating. Watching the sunset with her stories was magical."
+                }
+            ]
+        },
+        {
+            "id": "LB-PON-2024-015",
+            "name": "Naina Verma",
+            "age": 26,
+            "gender": "female",
+            "city": "Pondicherry",
+            "state": "Puducherry",
+            "years_lived": 4,
+            "languages": [
+                "English",
+                "Hindi",
+                "Tamil",
+                "French"
+            ],
+            "contact": {
+                "phone": "+91-9876543224",
+                "email": "naina.white_town@gmail.com",
+                "instagram": "@naina_pondy"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-PON-2024-99001",
+                "verified_date": "2024-04-02",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "White Town",
+                "pincode": "605001",
+                "landmark": "Near Promenade Beach"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880832/ChatGPT_Image_May_3_2026_03_51_04_PM_zybcdy.png",
+            "profession": "Cafe Reviewer & Culture Guide",
+            "bio": "Between the French quarters and the Tamil streets lies a world of aesthetics, books, and incredible coffee. I'll take you on a photography and cafe-hopping adventure in Pondy.",
+            "rating": 4.8,
+            "total_tours": 165,
+            "skills": [
+                "Boutique Cafe Knowledge",
+                "Film Photography",
+                "Bicycle Navigation",
+                "Multilingual"
+            ],
+            "specializations": [
+                "Cafe Hopping",
+                "Aesthetic Photography",
+                "Heritage Architecture"
+            ],
+            "services": [
+                {
+                    "category": "lifestyle_and_culture",
+                    "description": "Bicycle tour of the French Quarter followed by a curated cafe-hopping experience.",
+                    "duration_hours": 4,
+                    "price_per_hour": 450,
+                    "fixed_price": 1800,
+                    "max_group_size": 3,
+                    "includes": [
+                        "Bicycle rental arrangement",
+                        "Photography",
+                        "Cafe recommendations"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Monday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "afternoon"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 24
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Chloe from France",
+                    "rating": 5,
+                    "comment": "Naina knows the absolute best spots for coffee and croissants. A perfect relaxed afternoon!"
+                }
+            ]
+        },
+        {
+            "id": "LB-RIS-2024-016",
+            "name": "Shreya Anand",
+            "age": 31,
+            "gender": "female",
+            "city": "Rishikesh",
+            "state": "Uttarakhand",
+            "years_lived": 8,
+            "languages": [
+                "Hindi",
+                "English",
+                "Sanskrit"
+            ],
+            "contact": {
+                "phone": "+91-9876543225",
+                "email": "shreya.wellness@gmail.com",
+                "instagram": "@shreya.mindful"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-RIS-2024-33221",
+                "verified_date": "2024-01-15",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Tapovan",
+                "pincode": "249192",
+                "landmark": "Near Laxman Jhula"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880834/ChatGPT_Image_May_3_2026_03_52_15_PM_vwdxu1.png",
+            "profession": "Yoga Instructor & Spiritual Guide",
+            "bio": "Finding peace by the Ganges. I guide travelers through mindfulness walks, introduce them to authentic ashram life, and host sunrise meditation sessions.",
+            "rating": 5.0,
+            "total_tours": 280,
+            "skills": [
+                "Yoga & Meditation",
+                "Ashram Etiquette",
+                "Ayurvedic Food Knowledge",
+                "Spiritual History"
+            ],
+            "specializations": [
+                "Wellness Walks",
+                "Sunrise Meditation",
+                "Ganga Aarti Viewing"
+            ],
+            "services": [
+                {
+                    "category": "spiritual_wellness",
+                    "description": "Early morning meditation by the river followed by a mindful walk and healthy sattvic breakfast.",
+                    "duration_hours": 3,
+                    "price_per_hour": 400,
+                    "fixed_price": 1200,
+                    "max_group_size": 5,
+                    "includes": [
+                        "Guided meditation",
+                        "Breakfast arrangements",
+                        "Local spiritual insights"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "evening"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 48
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Emma from USA",
+                    "rating": 5,
+                    "comment": "Shreya's morning session was deeply grounding. Exactly what I came to Rishikesh for."
+                }
+            ]
+        },
+        {
+            "id": "LB-RIS-2024-017",
+            "name": "Rohan Joshi",
+            "age": 28,
+            "gender": "male",
+            "city": "Rishikesh",
+            "state": "Uttarakhand",
+            "years_lived": 10,
+            "languages": [
+                "Hindi",
+                "English",
+                "Garhwali"
+            ],
+            "contact": {
+                "phone": "+91-9876543226",
+                "email": "rohan.himalayas@gmail.com",
+                "instagram": "@rohan_outdoors"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-RIS-2024-55443",
+                "verified_date": "2024-02-28",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Shivpuri",
+                "pincode": "249192",
+                "landmark": "Near River Rafting Camps"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880828/ChatGPT_Image_May_3_2026_03_36_05_PM_coqbgs.png",
+            "profession": "Adventure Guide & Photographer",
+            "bio": "From the adrenaline of the Ganges rapids to serene mountain trails, I am your guy for all things adventure in Rishikesh. Let's explore the outdoors and capture some epic shots.",
+            "rating": 4.9,
+            "total_tours": 310,
+            "skills": [
+                "Trekking",
+                "Action Photography",
+                "Wilderness First Aid",
+                "Local Geography"
+            ],
+            "specializations": [
+                "Waterfall Treks",
+                "Action Sports Photography",
+                "Bridge Walks"
+            ],
+            "services": [
+                {
+                    "category": "adventure_trail",
+                    "description": "Guided trek to hidden waterfalls around Rishikesh with professional landscape and portrait photography.",
+                    "duration_hours": 5,
+                    "price_per_hour": 400,
+                    "fixed_price": 2000,
+                    "max_group_size": 4,
+                    "includes": [
+                        "Trail guiding",
+                        "High-res edited photos",
+                        "Transport to trailhead"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "afternoon"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 24
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Mark from Australia",
+                    "rating": 5,
+                    "comment": "Rohan is an amazing guide and took incredible photos of us by the waterfall. Highly recommend!"
+                }
+            ]
+        },
+        {
+            "id": "LB-JAI-2024-018",
+            "name": "Kabir Singh",
+            "age": 26,
+            "gender": "male",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "years_lived": 26,
+            "languages": [
+                "Hindi",
+                "English",
+                "Marwari"
+            ],
+            "contact": {
+                "phone": "+91-9876543227",
+                "email": "kabir.pinkcity@gmail.com",
+                "instagram": "@kabir_jaipur_lens"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-JAI-2024-88776",
+                "verified_date": "2024-03-05",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Badi Choupad",
+                "pincode": "302002",
+                "landmark": "Near Hawa Mahal"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880831/ChatGPT_Image_May_3_2026_03_32_53_PM_ow5o3c.png",
+            "profession": "Street Photographer & Heritage Guide",
+            "bio": "I know every angle of the Hawa Mahal and the best times to avoid the crowds. Join me to explore the bustling bazaars, taste the best kachoris, and take stunning photos of the Pink City.",
+            "rating": 4.8,
+            "total_tours": 245,
+            "skills": [
+                "Photography",
+                "Market Navigation",
+                "Street Food Knowledge",
+                "Bargaining"
+            ],
+            "specializations": [
+                "Architecture Photography",
+                "Bazaar Walks",
+                "Food Tours"
+            ],
+            "services": [
+                {
+                    "category": "photography_walk",
+                    "description": "3-hour morning photo walk covering Hawa Mahal exteriors, local flower markets, and street food stops.",
+                    "duration_hours": 3,
+                    "price_per_hour": 450,
+                    "fixed_price": 1350,
+                    "max_group_size": 4,
+                    "includes": [
+                        "Camera settings help",
+                        "Breakfast spots",
+                        "Historical trivia"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "preferred_timings": [
+                    "morning",
+                    "evening"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 12
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Lucas from Spain",
+                    "rating": 5,
+                    "comment": "Kabir showed us the best photo spots and took us to a place for the best lassi I've ever had."
+                }
+            ]
+        },
+        {
+            "id": "LB-MUN-2024-019",
+            "name": "Arjun Das",
+            "age": 29,
+            "gender": "male",
+            "city": "Munnar",
+            "state": "Kerala",
+            "years_lived": 29,
+            "languages": [
+                "Malayalam",
+                "English",
+                "Tamil"
+            ],
+            "contact": {
+                "phone": "+91-9876543228",
+                "email": "arjun.teaestates@gmail.com",
+                "instagram": "@arjun_munnar_trails"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-MUN-2024-66554",
+                "verified_date": "2024-01-25",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Old Munnar",
+                "pincode": "685612",
+                "landmark": "Near KDHP Tea Museum"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880831/ChatGPT_Image_May_3_2026_03_49_21_PM_ku0y7i.png",
+            "profession": "Nature Guide & Tea Sommelier",
+            "bio": "Growing up among the rolling hills of Munnar, the tea gardens are my backyard. I offer guided hikes through the estates, wildlife spotting, and authentic tea-tasting sessions.",
+            "rating": 4.9,
+            "total_tours": 178,
+            "skills": [
+                "Off-trail Trekking",
+                "Flora and Fauna Knowledge",
+                "Tea Processing Insights",
+                "Landscape Photography"
+            ],
+            "specializations": [
+                "Tea Estate Treks",
+                "Wildlife Spotting",
+                "Sunrise Hikes"
+            ],
+            "services": [
+                {
+                    "category": "nature_and_culture",
+                    "description": "Half-day trek through private tea estates ending with a local tea tasting experience.",
+                    "duration_hours": 5,
+                    "price_per_hour": 350,
+                    "fixed_price": 1750,
+                    "max_group_size": 6,
+                    "includes": [
+                        "Estate permissions",
+                        "Tea tasting",
+                        "Binoculars for wildlife"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "preferred_timings": [
+                    "morning"
+                ],
+                "advance_booking_required": true,
+                "min_notice_hours": 24
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Sarah from USA",
+                    "rating": 5,
+                    "comment": "The hike through the tea gardens with Arjun was breathtaking. He is so knowledgeable about the local ecosystem."
+                }
+            ]
+        },
+        {
+            "id": "LB-PUS-2024-020",
+            "name": "Vikram Singh",
+            "age": 32,
+            "gender": "male",
+            "city": "Pushkar",
+            "state": "Rajasthan",
+            "years_lived": 32,
+            "languages": [
+                "Hindi",
+                "Marwari",
+                "English"
+            ],
+            "contact": {
+                "phone": "+91-9876543229",
+                "email": "vikram.desert@gmail.com",
+                "instagram": "@vikram_pushkar_tales"
+            },
+            "verification": {
+                "police_verification": true,
+                "verification_id": "PV-PUS-2024-22334",
+                "verified_date": "2024-04-18",
+                "government_id_verified": true
+            },
+            "address": {
+                "area": "Brahma Temple Road",
+                "pincode": "305022",
+                "landmark": "Near Pushkar Lake"
+            },
+            "profile_pic": "https://res.cloudinary.com/dvznw8rs4/image/upload/v1777880837/ChatGPT_Image_May_3_2026_03_53_52_PM_jtb6dk.png",
+            "profession": "Desert Guide & Market Expert",
+            "bio": "I wear my colorful turban with pride! From navigating the holy ghats of Pushkar to finding the best deals in the vibrant bazaars, I am your local desert companion.",
+            "rating": 4.8,
+            "total_tours": 305,
+            "skills": [
+                "Market Bargaining",
+                "Camel Safari Logistics",
+                "Cultural History",
+                "Local Connections"
+            ],
+            "specializations": [
+                "Bazaar Tours",
+                "Lake Ghat Walks",
+                "Desert Evening Experiences"
+            ],
+            "services": [
+                {
+                    "category": "shopping_and_culture",
+                    "description": "Guided tour of the Pushkar bazaar, visiting hidden textile shops, followed by a sunset walk near the lake.",
+                    "duration_hours": 3,
+                    "price_per_hour": 400,
+                    "fixed_price": 1200,
+                    "max_group_size": 4,
+                    "includes": [
+                        "Bargaining assistance",
+                        "Cultural etiquette briefing",
+                        "Snack breaks"
+                    ]
+                }
+            ],
+            "availability": {
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Thursday",
+                    "Friday",
+                    "Sunday"
+                ],
+                "preferred_timings": [
+                    "afternoon",
+                    "evening"
+                ],
+                "advance_booking_required": false,
+                "min_notice_hours": 12
+            },
+            "reviews_snapshot": [
+                {
+                    "tourist_name": "Johannes from Germany",
+                    "rating": 4,
+                    "comment": "Vikram saved us a lot of money in the markets and explained the significance of the lake beautifully."
+                }
+            ]
         }
     ]
 }
